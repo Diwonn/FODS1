@@ -1,0 +1,8 @@
+This is code explanation
+1) import pickle 
+This function was used to enable us to work on binary file
+2) import os
+This was used for easy creation and remove of the txt file 
+3) import pathlib
+This was used to verify the presence of the used/called text file
+This works by checking if the file is present on the given path, if not it gives an error messgae, this is useful so that the code doesnt break due to absence of the file.

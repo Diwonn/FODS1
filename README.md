@@ -10,3 +10,5 @@ To run this bank management application in your computer follow these steps:
 5) Use find and replace button to replace the path of the accounts.txt
 6) *for example* In the souce code the path is "C://Users//sigde//OneDrive//Desktop//FODS BANK MANAGEMENT//accounts.txt"
 7) Replce that path with the path in your computer, the common path is **C://Users//Downloads**
+
+**THE ADMIN PASSWORD IS 8822**
